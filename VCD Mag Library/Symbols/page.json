@@ -1,0 +1,69 @@
+{
+  "_class": "page",
+  "booleanOperation": -1,
+  "do_objectID": "7ED63331-2BC6-498A-BC3D-489131725135",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 0,
+    "width": 0,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -150,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolMaster",
+      "id": "88A9CB47-EEC1-4D1A-8A6B-D360E3BCC411"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "DD398524-0AB3-49CD-A776-4617D67E2F38"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "EA74E5DF-E897-4135-B9BA-BC0520FDBA57"
+    }
+  ],
+  "name": "Symbols",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -283,
+    "guides": [
+    ]
+  }
+}
