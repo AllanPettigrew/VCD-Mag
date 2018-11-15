@@ -1,7 +1,7 @@
 {
   "_class": "page",
   "booleanOperation": -1,
-  "do_objectID": "7ED63331-2BC6-498A-BC3D-489131725135",
+  "do_objectID": "CAB8008B-04A4-4F9C-9DFB-13A6895BA39C",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -22,7 +22,7 @@
   "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
-    "base": -150,
+    "base": -361,
     "guides": [
     ]
   },
@@ -35,32 +35,20 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "symbolMaster",
-      "id": "88A9CB47-EEC1-4D1A-8A6B-D360E3BCC411"
+      "class": "symbolInstance",
+      "id": "EB74BDAE-280D-483F-873D-0A72DAC2357A"
     },
     {
-      "class": "symbolMaster",
-      "id": "DD398524-0AB3-49CD-A776-4617D67E2F38"
+      "class": "symbolInstance",
+      "id": "2E300A3A-CE70-42E7-9379-14442BEE147F"
     },
     {
-      "class": "symbolMaster",
-      "id": "EA74E5DF-E897-4135-B9BA-BC0520FDBA57"
-    },
-    {
-      "class": "symbolMaster",
-      "id": "AFEC30C9-4F73-4020-8311-7305238AD4E8"
-    },
-    {
-      "class": "symbolMaster",
-      "id": "6782C4F9-5A33-43A8-854F-56F262E26A88"
-    },
-    {
-      "class": "symbolMaster",
-      "id": "67B71831-4E95-40C7-882E-7F04995634E5"
+      "class": "symbolInstance",
+      "id": "8C1700BB-03F5-446D-9CA8-60693CE5F417"
     }
   ],
-  "name": "Symbols",
-  "nameIsFixed": false,
+  "name": "Colors",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -74,7 +62,7 @@
   },
   "verticalRulerData": {
     "_class": "rulerData",
-    "base": -283,
+    "base": -306,
     "guides": [
     ]
   }

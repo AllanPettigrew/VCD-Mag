@@ -1,7 +1,14 @@
 {
-  "_class": "page",
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
   "booleanOperation": -1,
-  "do_objectID": "7ED63331-2BC6-498A-BC3D-489131725135",
+  "do_objectID": "6505ED37-F757-4E42-9FA3-1E3FEF826BC8",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -14,57 +21,44 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 0,
-    "width": 0,
-    "x": 0,
-    "y": 0
+    "height": 812,
+    "width": 375,
+    "x": 376,
+    "y": -659
   },
-  "hasClickThrough": true,
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
-    "base": -150,
+    "base": 0,
     "guides": [
     ]
   },
+  "includeBackgroundColorInExport": true,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
-    {
-      "class": "symbolMaster",
-      "id": "88A9CB47-EEC1-4D1A-8A6B-D360E3BCC411"
-    },
-    {
-      "class": "symbolMaster",
-      "id": "DD398524-0AB3-49CD-A776-4617D67E2F38"
-    },
-    {
-      "class": "symbolMaster",
-      "id": "EA74E5DF-E897-4135-B9BA-BC0520FDBA57"
-    },
-    {
-      "class": "symbolMaster",
-      "id": "AFEC30C9-4F73-4020-8311-7305238AD4E8"
-    },
-    {
-      "class": "symbolMaster",
-      "id": "6782C4F9-5A33-43A8-854F-56F262E26A88"
-    },
-    {
-      "class": "symbolMaster",
-      "id": "67B71831-4E95-40C7-882E-7F04995634E5"
-    }
   ],
-  "name": "Symbols",
-  "nameIsFixed": false,
+  "name": "Photo",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 812,
+    "name": "iPhone X",
+    "offersLandscapeVariant": 1,
+    "width": 375
+  },
+  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": false,
+  "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
     "endMarkerType": 0,
@@ -74,7 +68,7 @@
   },
   "verticalRulerData": {
     "_class": "rulerData",
-    "base": -283,
+    "base": 0,
     "guides": [
     ]
   }
